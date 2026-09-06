@@ -1,3 +1,0 @@
-IMAGE / ASSET NOTE
-
-The website uses locally bundled image assets only; there are no remote stock-photo URLs. The hero and replacement product visuals were generated specifically for the CEYVANA project, and the natural-ingredients card uses a locally cropped visual from a generated CEYVANA concept image. Keep your generated/source records for business documentation.
