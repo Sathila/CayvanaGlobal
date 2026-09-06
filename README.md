@@ -13,3 +13,8 @@ All images are local; no remote stock-image URLs are embedded. The hero image wa
 
 ## SEO
 Includes semantic HTML, title/description, keywords, canonical URL, Open Graph/Twitter metadata, Organization JSON-LD, image alt text, robots.txt and sitemap.xml. After launch, submit sitemap.xml in Google Search Console.
+
+
+## V4 visual updates
+- Header/footer logo sizing tightened so the logo stays proportionate and compact.
+- Natural Ingredients & More now uses a dedicated botanical/plant-ingredient visual rather than the previous generic image.
